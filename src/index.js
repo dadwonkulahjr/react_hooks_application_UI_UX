@@ -11,6 +11,5 @@ root.render(
     <MasterHeader />
     <MasterFooter />
   </>
-
-  // </React.StrictMode>
+  // {/* </React.StrictMode> */}
 );
